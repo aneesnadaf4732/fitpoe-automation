@@ -35,3 +35,28 @@ Run the Tests
 Use Maven to run the tests:
 mvn test
 Alternatively, you can run the tests from Eclipse IDE.
+
+Test Details
+
+Test Class: FitPeo.java
+Test Method: testFitPoe
+
+Description: Navigates the FitPeo website, interacts with elements, sets input values, and performs validations.
+Troubleshooting
+
+Compilation Issues: Ensure all dependencies are properly set up and imported.
+
+Element Locator Issues: Verify XPath or element locators for accuracy.
+
+Value Setting Issues: Confirm that JavaScript is executing correctly to set values.
+Contributing
+Feel free to fork, modify, and submit pull requests. Please ensure code adheres to best practices and includes necessary test cases.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For questions or support, please contact:
+Anees Nadaf anees26337nadaf@gmail.com
+
+
