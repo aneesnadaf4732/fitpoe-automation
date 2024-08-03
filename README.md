@@ -8,15 +8,13 @@ Setup Instructions
 
 Prerequisites
 
-1. Java Development Kit (JDK)**: Ensure that JDK 8 or higher is installed.
+1. Java Development Kit (JDK): Ensure that JDK 8 or higher is installed.
 2. Maven: This project uses Maven for dependency management.
 3. ChromeDriver: Download ChromeDriver and set its path in the `FitPeo.java` file.
 
 Steps to Set Up
 
 1. Clone the Repository
-
-   sh
    git clone <repository-url>
    cd <repository-directory>
    Install Dependencies
